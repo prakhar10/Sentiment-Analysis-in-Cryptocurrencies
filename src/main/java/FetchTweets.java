@@ -33,10 +33,10 @@ public class FetchTweets {
 
 	public static void main(String[] args) throws IOException {
 
-		String consumerKey = "MoJMkotXfIwaxP8BmCNWvHhzD";
-		String consumerSecret = "bFEqIOyYiqvhJuzO35pIupf5rr8zfBnH5wL7Sk6fiKw3LOyhPE";
-		String accessToken = "173806625-bgSRU2LsKaxxkkDv0VW48WpJ7fEX3FbdpodMRDIz";
-		String accessTokenSecret = "DCVjhNxwhNz8R15lTOOObGduUiIvqG33TWwwd8zuhOY27";
+		String consumerKey = "";
+		String consumerSecret = "";
+		String accessToken = "";
+		String accessTokenSecret = "";
 
 		System.setProperty("hadoop.home.dir", "C:\\Program Files\\winutil\\");
 
